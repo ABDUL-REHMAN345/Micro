@@ -36,13 +36,13 @@ To install **Micro**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/micro.git
+sudo git clone https://github.com/ABDUL-REHMAN345/Micro.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/micro.git
+git clone https://github.com/ABDUL-REHMAN345/Micro.git
 ```
 
 ### Contact
